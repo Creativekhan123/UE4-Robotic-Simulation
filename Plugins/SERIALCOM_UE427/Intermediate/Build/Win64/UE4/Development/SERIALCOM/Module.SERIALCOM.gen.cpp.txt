@@ -1,0 +1,7 @@
+C:\Users\FIOSA\Documents\Unreal Projects\test_project\Plugins\SERIALCOM_UE427\Intermediate\Build\Win64\UE4\Development\SERIALCOM\Definitions.SERIALCOM.h
+C:/Users/FIOSA/Documents/Unreal Projects/test_project/Plugins/SERIALCOM_UE427/Intermediate/Build/Win64/UE4/Inc/SERIALCOM/SerialCom.gen.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\FIOSA\Documents\Unreal Projects\test_project\Plugins\SERIALCOM_UE427\Source\SERIALCOM/Public/SerialCom.h
+C:\Users\FIOSA\Documents\Unreal Projects\test_project\Plugins\SERIALCOM_UE427\Intermediate\Build\Win64\UE4\Inc\SERIALCOM\SerialCom.generated.h
+C:/Users/FIOSA/Documents/Unreal Projects/test_project/Plugins/SERIALCOM_UE427/Intermediate/Build/Win64/UE4/Inc/SERIALCOM/SERIALCOM.init.gen.cpp
