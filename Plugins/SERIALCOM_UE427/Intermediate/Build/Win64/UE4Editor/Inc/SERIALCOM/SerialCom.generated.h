@@ -15,8 +15,8 @@ class USerialCom;
 #endif
 #define SERIALCOM_SerialCom_generated_h
 
-#define HostProject_Plugins_SERIALCOM_Source_SERIALCOM_Public_SerialCom_h_32_SPARSE_DATA
-#define HostProject_Plugins_SERIALCOM_Source_SERIALCOM_Public_SerialCom_h_32_RPC_WRAPPERS \
+#define Robotic_Arm_project_Plugins_SERIALCOM_UE427_Source_SERIALCOM_Public_SerialCom_h_32_SPARSE_DATA
+#define Robotic_Arm_project_Plugins_SERIALCOM_UE427_Source_SERIALCOM_Public_SerialCom_h_32_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execLineEndToStr); \
 	DECLARE_FUNCTION(execGetBaud); \
@@ -45,7 +45,7 @@ class USerialCom;
 	DECLARE_FUNCTION(execOpenComPortWithFlowControl);
 
 
-#define HostProject_Plugins_SERIALCOM_Source_SERIALCOM_Public_SerialCom_h_32_RPC_WRAPPERS_NO_PURE_DECLS \
+#define Robotic_Arm_project_Plugins_SERIALCOM_UE427_Source_SERIALCOM_Public_SerialCom_h_32_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execLineEndToStr); \
 	DECLARE_FUNCTION(execGetBaud); \
@@ -74,7 +74,7 @@ class USerialCom;
 	DECLARE_FUNCTION(execOpenComPortWithFlowControl);
 
 
-#define HostProject_Plugins_SERIALCOM_Source_SERIALCOM_Public_SerialCom_h_32_INCLASS_NO_PURE_DECLS \
+#define Robotic_Arm_project_Plugins_SERIALCOM_UE427_Source_SERIALCOM_Public_SerialCom_h_32_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUSerialCom(); \
 	friend struct Z_Construct_UClass_USerialCom_Statics; \
@@ -83,7 +83,7 @@ public: \
 	DECLARE_SERIALIZER(USerialCom)
 
 
-#define HostProject_Plugins_SERIALCOM_Source_SERIALCOM_Public_SerialCom_h_32_INCLASS \
+#define Robotic_Arm_project_Plugins_SERIALCOM_UE427_Source_SERIALCOM_Public_SerialCom_h_32_INCLASS \
 private: \
 	static void StaticRegisterNativesUSerialCom(); \
 	friend struct Z_Construct_UClass_USerialCom_Statics; \
@@ -92,7 +92,7 @@ public: \
 	DECLARE_SERIALIZER(USerialCom)
 
 
-#define HostProject_Plugins_SERIALCOM_Source_SERIALCOM_Public_SerialCom_h_32_STANDARD_CONSTRUCTORS \
+#define Robotic_Arm_project_Plugins_SERIALCOM_UE427_Source_SERIALCOM_Public_SerialCom_h_32_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API USerialCom(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(USerialCom) \
@@ -105,7 +105,7 @@ private: \
 public:
 
 
-#define HostProject_Plugins_SERIALCOM_Source_SERIALCOM_Public_SerialCom_h_32_ENHANCED_CONSTRUCTORS \
+#define Robotic_Arm_project_Plugins_SERIALCOM_UE427_Source_SERIALCOM_Public_SerialCom_h_32_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API USerialCom(USerialCom&&); \
@@ -116,28 +116,28 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(USerialCom)
 
 
-#define HostProject_Plugins_SERIALCOM_Source_SERIALCOM_Public_SerialCom_h_32_PRIVATE_PROPERTY_OFFSET
-#define HostProject_Plugins_SERIALCOM_Source_SERIALCOM_Public_SerialCom_h_29_PROLOG
-#define HostProject_Plugins_SERIALCOM_Source_SERIALCOM_Public_SerialCom_h_32_GENERATED_BODY_LEGACY \
+#define Robotic_Arm_project_Plugins_SERIALCOM_UE427_Source_SERIALCOM_Public_SerialCom_h_32_PRIVATE_PROPERTY_OFFSET
+#define Robotic_Arm_project_Plugins_SERIALCOM_UE427_Source_SERIALCOM_Public_SerialCom_h_29_PROLOG
+#define Robotic_Arm_project_Plugins_SERIALCOM_UE427_Source_SERIALCOM_Public_SerialCom_h_32_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	HostProject_Plugins_SERIALCOM_Source_SERIALCOM_Public_SerialCom_h_32_PRIVATE_PROPERTY_OFFSET \
-	HostProject_Plugins_SERIALCOM_Source_SERIALCOM_Public_SerialCom_h_32_SPARSE_DATA \
-	HostProject_Plugins_SERIALCOM_Source_SERIALCOM_Public_SerialCom_h_32_RPC_WRAPPERS \
-	HostProject_Plugins_SERIALCOM_Source_SERIALCOM_Public_SerialCom_h_32_INCLASS \
-	HostProject_Plugins_SERIALCOM_Source_SERIALCOM_Public_SerialCom_h_32_STANDARD_CONSTRUCTORS \
+	Robotic_Arm_project_Plugins_SERIALCOM_UE427_Source_SERIALCOM_Public_SerialCom_h_32_PRIVATE_PROPERTY_OFFSET \
+	Robotic_Arm_project_Plugins_SERIALCOM_UE427_Source_SERIALCOM_Public_SerialCom_h_32_SPARSE_DATA \
+	Robotic_Arm_project_Plugins_SERIALCOM_UE427_Source_SERIALCOM_Public_SerialCom_h_32_RPC_WRAPPERS \
+	Robotic_Arm_project_Plugins_SERIALCOM_UE427_Source_SERIALCOM_Public_SerialCom_h_32_INCLASS \
+	Robotic_Arm_project_Plugins_SERIALCOM_UE427_Source_SERIALCOM_Public_SerialCom_h_32_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define HostProject_Plugins_SERIALCOM_Source_SERIALCOM_Public_SerialCom_h_32_GENERATED_BODY \
+#define Robotic_Arm_project_Plugins_SERIALCOM_UE427_Source_SERIALCOM_Public_SerialCom_h_32_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	HostProject_Plugins_SERIALCOM_Source_SERIALCOM_Public_SerialCom_h_32_PRIVATE_PROPERTY_OFFSET \
-	HostProject_Plugins_SERIALCOM_Source_SERIALCOM_Public_SerialCom_h_32_SPARSE_DATA \
-	HostProject_Plugins_SERIALCOM_Source_SERIALCOM_Public_SerialCom_h_32_RPC_WRAPPERS_NO_PURE_DECLS \
-	HostProject_Plugins_SERIALCOM_Source_SERIALCOM_Public_SerialCom_h_32_INCLASS_NO_PURE_DECLS \
-	HostProject_Plugins_SERIALCOM_Source_SERIALCOM_Public_SerialCom_h_32_ENHANCED_CONSTRUCTORS \
+	Robotic_Arm_project_Plugins_SERIALCOM_UE427_Source_SERIALCOM_Public_SerialCom_h_32_PRIVATE_PROPERTY_OFFSET \
+	Robotic_Arm_project_Plugins_SERIALCOM_UE427_Source_SERIALCOM_Public_SerialCom_h_32_SPARSE_DATA \
+	Robotic_Arm_project_Plugins_SERIALCOM_UE427_Source_SERIALCOM_Public_SerialCom_h_32_RPC_WRAPPERS_NO_PURE_DECLS \
+	Robotic_Arm_project_Plugins_SERIALCOM_UE427_Source_SERIALCOM_Public_SerialCom_h_32_INCLASS_NO_PURE_DECLS \
+	Robotic_Arm_project_Plugins_SERIALCOM_UE427_Source_SERIALCOM_Public_SerialCom_h_32_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -145,7 +145,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> SERIALCOM_API UClass* StaticClass<class USerialCom>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID HostProject_Plugins_SERIALCOM_Source_SERIALCOM_Public_SerialCom_h
+#define CURRENT_FILE_ID Robotic_Arm_project_Plugins_SERIALCOM_UE427_Source_SERIALCOM_Public_SerialCom_h
 
 
 #define FOREACH_ENUM_ELINEEND(op) \

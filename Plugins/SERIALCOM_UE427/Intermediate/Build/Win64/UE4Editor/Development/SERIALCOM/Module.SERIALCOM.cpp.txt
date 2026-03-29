@@ -1,7 +1,7 @@
-C:\Users\FIOSA\Documents\Unreal Projects\Robotic Arm_project\Plugins\SERIALCOM_UE427\Intermediate\Build\Win64\UE4\Development\SERIALCOM\Definitions.SERIALCOM.h
+C:\Users\FIOSA\Documents\Unreal Projects\Robotic Arm_project\Plugins\SERIALCOM_UE427\Intermediate\Build\Win64\UE4Editor\Development\SERIALCOM\Definitions.SERIALCOM.h
 C:/Users/FIOSA/Documents/Unreal Projects/Robotic Arm_project/Plugins/SERIALCOM_UE427/Source/SERIALCOM/Private/SerialCom.cpp
 C:\Users\FIOSA\Documents\Unreal Projects\Robotic Arm_project\Plugins\SERIALCOM_UE427\Source\SERIALCOM\Public\SerialCom.h
-C:\Users\FIOSA\Documents\Unreal Projects\Robotic Arm_project\Plugins\SERIALCOM_UE427\Intermediate\Build\Win64\UE4\Inc\SERIALCOM\SerialCom.generated.h
+C:\Users\FIOSA\Documents\Unreal Projects\Robotic Arm_project\Plugins\SERIALCOM_UE427\Intermediate\Build\Win64\UE4Editor\Inc\SERIALCOM\SerialCom.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
