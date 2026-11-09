@@ -32,7 +32,7 @@
 /wd4244
 /wd4838
 /I .
-/I "C:\Users\FIOSA\Documents\Unreal Projects\Robotic Arm_project\Plugins\SERIALCOM_UE427\Source\SERIALCOM\Private"
+/I D:\Unreal_engine_project\UE4-Robotic-Simulation\Plugins\SERIALCOM_UE427\Source\SERIALCOM\Private
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\Engine
 /I Runtime
 /I Runtime\Engine\Classes
@@ -232,9 +232,9 @@
 /I Editor\Kismet\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
-/I "C:\Users\FIOSA\Documents\Unreal Projects\Robotic Arm_project\Plugins\SERIALCOM_UE427\Intermediate\Build\Win64\UE4Editor\Inc\SERIALCOM"
-/I "C:\Users\FIOSA\Documents\Unreal Projects\Robotic Arm_project\Plugins\SERIALCOM_UE427\Source"
-/I "C:\Users\FIOSA\Documents\Unreal Projects\Robotic Arm_project\Plugins\SERIALCOM_UE427\Source\SERIALCOM\Public"
+/I D:\Unreal_engine_project\UE4-Robotic-Simulation\Plugins\SERIALCOM_UE427\Intermediate\Build\Win64\UE4Editor\Inc\SERIALCOM
+/I D:\Unreal_engine_project\UE4-Robotic-Simulation\Plugins\SERIALCOM_UE427\Source
+/I D:\Unreal_engine_project\UE4-Robotic-Simulation\Plugins\SERIALCOM_UE427\Source\SERIALCOM\Public
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -258,18 +258,18 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
-/I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\INCLUDE"
+/I "C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8.1\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\winrt"
-/FI"C:\Users\FIOSA\Documents\Unreal Projects\Robotic Arm_project\Intermediate\Build\Win64\test_projectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Users\FIOSA\Documents\Unreal Projects\Robotic Arm_project\Intermediate\Build\Win64\test_projectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\FIOSA\Documents\Unreal Projects\Robotic Arm_project\Intermediate\Build\Win64\test_projectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Users\FIOSA\Documents\Unreal Projects\Robotic Arm_project\Plugins\SERIALCOM_UE427\Intermediate\Build\Win64\UE4Editor\Development\SERIALCOM\Module.SERIALCOM.cpp"
-/FI"C:\Users\FIOSA\Documents\Unreal Projects\Robotic Arm_project\Plugins\SERIALCOM_UE427\Intermediate\Build\Win64\UE4Editor\Development\SERIALCOM\Definitions.SERIALCOM.h"
-/Fo"C:\Users\FIOSA\Documents\Unreal Projects\Robotic Arm_project\Plugins\SERIALCOM_UE427\Intermediate\Build\Win64\UE4Editor\Development\SERIALCOM\Module.SERIALCOM.cpp.obj"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.28000.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.28000.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.28000.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.28000.0\winrt"
+/FI"D:\Unreal_engine_project\UE4-Robotic-Simulation\Intermediate\Build\Win64\test_projectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"D:\Unreal_engine_project\UE4-Robotic-Simulation\Intermediate\Build\Win64\test_projectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"D:\Unreal_engine_project\UE4-Robotic-Simulation\Intermediate\Build\Win64\test_projectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"D:\Unreal_engine_project\UE4-Robotic-Simulation\Plugins\SERIALCOM_UE427\Intermediate\Build\Win64\UE4Editor\Development\SERIALCOM\Module.SERIALCOM.cpp"
+/FI"D:\Unreal_engine_project\UE4-Robotic-Simulation\Plugins\SERIALCOM_UE427\Intermediate\Build\Win64\UE4Editor\Development\SERIALCOM\Definitions.SERIALCOM.h"
+/Fo"D:\Unreal_engine_project\UE4-Robotic-Simulation\Plugins\SERIALCOM_UE427\Intermediate\Build\Win64\UE4Editor\Development\SERIALCOM\Module.SERIALCOM.cpp.obj"
 /TP
 /GR-
 /W4

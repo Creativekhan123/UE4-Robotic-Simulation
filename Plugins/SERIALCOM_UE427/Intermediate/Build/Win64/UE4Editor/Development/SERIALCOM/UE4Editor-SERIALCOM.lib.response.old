@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SERIALCOM.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\FIOSA\Documents\Unreal Projects\Robotic Arm_project\Intermediate\Build\Win64\test_projectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\FIOSA\Documents\Unreal Projects\Robotic Arm_project\Plugins\SERIALCOM_UE427\Intermediate\Build\Win64\UE4Editor\Development\SERIALCOM\Module.SERIALCOM.cpp.obj"
+"C:\Users\FIOSA\Documents\Unreal Projects\Robotic Arm_project\Plugins\SERIALCOM_UE427\Intermediate\Build\Win64\UE4Editor\Development\SERIALCOM\Module.SERIALCOM.gen.cpp.obj"
+"C:\Users\FIOSA\Documents\Unreal Projects\Robotic Arm_project\Plugins\SERIALCOM_UE427\Intermediate\Build\Win64\UE4Editor\Development\SERIALCOM\Default.rc2.res"
+/OUT:"C:\Users\FIOSA\Documents\Unreal Projects\Robotic Arm_project\Plugins\SERIALCOM_UE427\Intermediate\Build\Win64\UE4Editor\Development\SERIALCOM\UE4Editor-SERIALCOM.lib"
